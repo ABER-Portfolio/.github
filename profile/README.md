@@ -4,7 +4,7 @@
 
 </br></br>
 
-<img src = "https://avatars.githubusercontent.com/u/78880883?v=4" width = "220px">
+<img src = "https://avatars.githubusercontent.com/u/78880883?v=4" width = "220px" height = "220px">
 
 </br></br>
 
